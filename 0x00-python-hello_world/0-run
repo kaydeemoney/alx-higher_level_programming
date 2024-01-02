@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+python3 ./$PYFILE
+export PYFILE=main.py
+./main.py
