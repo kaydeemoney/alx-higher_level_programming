@@ -1,1 +1,1 @@
-this is for loops, if else and others, 
+hi, this is my readme for the whole folder
