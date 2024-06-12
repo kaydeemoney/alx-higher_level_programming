@@ -1,0 +1,1 @@
+this is basic jquery as recommended by alx, i hope to still come back to update this:
